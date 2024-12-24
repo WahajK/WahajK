@@ -8,7 +8,7 @@ I took a career break for a year and have recently started studying at [42 Berli
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-libft)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | [Born2beroot](../../../42-born2beroot)      | 📝     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
+| 2   | Born2beRoot                                 | 📝     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
 | 3   | [ft_printf](../../../42-ft_printf)          | ✅     |   | 11  | CPP Module 04                              | 🔒     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../42-get_next_line)  | ✅     |   | 12  | CPP Module 04                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 04                              | 🔒     |   | 23  | Inception                      | 🔒      |
