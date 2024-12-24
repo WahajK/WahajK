@@ -18,7 +18,7 @@ I took a career break for a year and have recently started studying at [42 Berli
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahajK&&theme=tokyonight" alt="WahajK" />
   </a>
 </p>
-
+<!--
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -59,7 +59,7 @@ I took a career break for a year and have recently started studying at [42 Berli
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
     </tr>
 </table>
-
+-->
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
