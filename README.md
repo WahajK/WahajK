@@ -2,7 +2,7 @@
 
 My name is Wahaj and I am a BSCS graduate from FAST NUCES
 
-I took a career break for a year and have recently started studying at [42 Berlin](https://42berlin.de)
+I took a career break for a year and have recently started studying at [42 Berlin](https://42berlin.de) while doing my Masters in Cyber Security from [Arden University](https://arden.ac.uk)
 
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
