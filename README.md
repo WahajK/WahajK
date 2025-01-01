@@ -37,6 +37,7 @@ I took a career break for a year and have recently started studying at [42 Berli
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molover/)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:wahajkhan788@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://42wolfsburgberlin.notion.site/notion-guides)
 <!--
 **WahajK/WahajK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
