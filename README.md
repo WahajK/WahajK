@@ -28,7 +28,7 @@ I took a career break for a year and have recently started studying at [42 Berli
 | 4   | [get_next_line](../../../42_get_next_line)  | ✅     |   | 12  | CPP Module 04                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 04                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  | so_long                                     | 🔒     |   | 14  | CPP Module 04                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
-| 6A  | minitalk                                    | 🔒     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
+| 6A  | [minitalk](../../../42_minitalk)            | 🔒     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | push_swap                                   | 🔒     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | minishell                                   | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
