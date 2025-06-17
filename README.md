@@ -32,7 +32,7 @@ I took a career break for a year and have recently started studying at [42 Berli
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../42_push_swap)          | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | minishell                                   | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | Philosphers                                 | 📝     |   | 19  | CPP Module 08                              | 🔒     |   |     |                                |         |
+| 9   | [Philosphers](../../../42_Philosphers)      | 📝     |   | 19  | CPP Module 08                              | 🔒     |   |     |                                |         |
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molover/)
