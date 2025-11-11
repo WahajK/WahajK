@@ -31,7 +31,7 @@ I took a career break for a year and have recently started studying at [42 Berli
 | 6A  | [minitalk](../../../42_minitalk)            | ✅     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../42_push_swap)          | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   | minishell                                   | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 8   | [minishell](../../../42_minishell)          | 📝     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   | [Philosphers](../../../42_Philosphers)      | 📝     |   | 19  | CPP Module 08                              | 🔒     |   |     |                                |         |
 
 ## 📱 Connect With Me!
