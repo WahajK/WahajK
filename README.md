@@ -24,7 +24,7 @@ I took a career break for a year and have recently started studying at [42 Berli
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42_libft)                  | ✅     |   | 10A | cub3d                                      | 📝     |   | 20  | NetPractice                    | 📝      |
 | 2   | Born2beRoot                                 | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](../../../42_ft_printf)          | ✅     |   | 11  | [CPP Module 00](../../../CPP_Module_00)    | 📝     |   | 22A | ft_irc                         | 🔒      |
+| 3   | [ft_printf](../../../42_ft_printf)          | ✅     |   | 11  | [CPP Module 00](../../../42_CPP_Module_00) | 📝     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../42_get_next_line)  | ✅     |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  | [so_long](../../../42_so_long)              | ✅     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
